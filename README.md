@@ -1,4 +1,1 @@
-## привееет 👋
-
-- 🌱 прогер по интересам
-- 🍀 tech-art по жизни
+![a-ha-ha-ha, staying alive, staying alive](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFodjAxdHVsc2o1cGo0dzR4bm1pb3BydTltY2s4Zzg0ZzVveWkwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfKl7x4Mf4Htt6AJdX/giphy.gif)
